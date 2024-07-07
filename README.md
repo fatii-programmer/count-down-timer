@@ -1,5 +1,5 @@
 🚀 Countdown Timer:
-Welcome to the Countdown Timer project!
+Welcome to the Countdown Timer project
 
 Overview:
 Elevate your time management game with our sleek and intuitive Countdown Timer. Whether you're hustling through deadlines, crushing workouts, or perfecting your culinary skills, this tool is your ultimate timekeeping companion.
